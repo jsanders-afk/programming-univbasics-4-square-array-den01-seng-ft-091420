@@ -2,7 +2,7 @@ require 'pry'
 def square_array(array)
   narray = []
   array.times do |index|
-    narray.push(sqrd)
+    narray.push(array[index + 2])
   end
   narray
 end
