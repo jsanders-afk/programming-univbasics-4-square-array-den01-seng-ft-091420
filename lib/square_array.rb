@@ -1,4 +1,4 @@
-require 'pry'
+
 def square_array(array)
   narray = []
   array.length.times do |index|
@@ -6,4 +6,3 @@ def square_array(array)
   end
   narray
 end
-binding.pry
