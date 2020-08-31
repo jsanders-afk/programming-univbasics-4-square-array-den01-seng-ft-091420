@@ -7,3 +7,4 @@ def square_array(array)
   end
   narray
 end
+binding.pry
